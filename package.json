@@ -1,8 +1,10 @@
 {
-  "requires": true,
-  "lockfileVersion": 1,
-  "dependencies": {
-    "discord": "^0.8.2",
-    "node-fetch": "^2.6.0"
-  }
+	"requires": true,
+	"lockfileVersion": 1,
+	"dependencies": {
+		"discord": "^0.8.2",
+		"dotenv": "^8.2.0",
+		"esm": "^3.2.25",
+		"node-fetch": "^2.6.0"
+	}
 }
