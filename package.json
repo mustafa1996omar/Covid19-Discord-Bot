@@ -1,0 +1,8 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "discord": "^0.8.2",
+    "node-fetch": "^2.6.0"
+  }
+}
